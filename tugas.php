@@ -1,6 +1,6 @@
 <?php
     class mahasiswa{
-        public $nim = 16 0204 0036;
+        public $nim = "16 0204 0036";
         public $nama = "abdulloh";
         public $jurusan = "PPLG";
 
